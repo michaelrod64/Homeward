@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:progress="90"
+        style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_height="match_parent"
+        android:indeterminate="false"
+        android:scrollbarStyle="insideInset"
+        android:id="@+id/progressBar"
+        android:max="90"
+        />
+</LinearLayout>

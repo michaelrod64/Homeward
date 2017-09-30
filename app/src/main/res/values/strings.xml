@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homeward</string>
+
+    <string name="geolocate_button_label">Geolocate</string>
+    <string name="previous_location_button_label">Get previous</string>
+    <string name="location_field_label">Location</string>
+    <string name="gps_on_toggle_label">High Accuracy On</string>
+    <string name="gps_off_toggle_label">High Accuracy Off</string>
+    <string name="network_on_toggle_label">Balanced Accuracy On</string>
+    <string name="network_off_toggle_label">Balanced Accuracy Off</string>
+
+    <integer name="time_between_location_updates_ms">2000</integer>
+    <integer name="threshold_for_last_location_ms">10000</integer>
+
+
+</resources>
